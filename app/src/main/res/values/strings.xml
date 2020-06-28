@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FancyCars.ca</string>
+
+    <string name="error_msg">Error message</string>
+
+    <string name="preference_file_key">PreferenceFileKey</string>
+
+    <string name="sort_prompt">Sort By</string>
+    <string-array name="sort_arrays">
+        <item>Sort By</item>
+        <item>Name</item>
+        <item>Availability</item>
+    </string-array>
+
+</resources>
